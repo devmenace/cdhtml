@@ -9,6 +9,15 @@ div{
     padding: 5px;
     margin: 0;
 }
+h1{
+    color: red;
+}
+h2{
+    color: blue;
+}
+h3{
+    color: green;
+}
 details {
     border: 1px solid #aaa;
     border-radius: 4px;
