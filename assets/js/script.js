@@ -1,1 +1,3 @@
-document.write('Script loaded');
+const script= {};
+
+const scriptDisplay =  document.getElementById('script-display').innerHTML=``;
